@@ -26,11 +26,6 @@
             bindings = <&kp DELETE>;
             key-positions = <32 33>;
         };
-
-        esc {
-            bindings = <&kp ESC>;
-            key-positions = <18 19>;
-        };
     };
 
     keymap {
